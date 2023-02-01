@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rhKashif
-- 👀 I’m interested in Coding/AI/Ethics/Philosophy/Meaning
+- 👀 I’m interested in Coding/AI/Ethics/Philosophy
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: rhkashif@gmail.com
